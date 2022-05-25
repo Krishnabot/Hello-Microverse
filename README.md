@@ -1,8 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Hello microverse
+# Hello Microverse
 
 
 ## Built With[](https://github.com/account)
